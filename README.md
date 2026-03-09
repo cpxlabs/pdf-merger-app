@@ -2,6 +2,8 @@
 
 A lightweight desktop app for merging PDF files with a React UI and native desktop dialogs.
 
+![PDF Merger App screenshot](docs/app-screenshot.png)
+
 ## Features
 
 - Browse and select PDF files
